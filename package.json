@@ -1,0 +1,40 @@
+{
+  "author": {
+    "name": "LJ Team",
+    "email": "lj-team@gmail.com",
+    "url": "https://github.com/lj-team"
+  },
+  "bugs": {
+    "url": "https://github.com/lj-team/babel-plugin-transform-empty-statement/issues"
+  },
+  "dependencies": {},
+  "description": "Turn emptyStatement nodes info empty IIFEs",
+  "devDependencies": {},
+  "directories": {},
+  "homepage": "https://github.com/lj-team/babel-plugin-transform-empty-statement#readme",
+  "keywords": [
+    "babel",
+    "babel-plugin",
+    "plugin",
+    "replace"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "lj-team",
+      "email": "lj-team@gmail.com"
+    }
+  ],
+  "name": "babel-plugin-transform-empty-statement",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lj-team/babel-plugin-transform-empty-statement.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
