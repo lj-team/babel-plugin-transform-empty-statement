@@ -1,21 +1,21 @@
-#install
+# Install
 ````
 npm i babel-plugin-transform-empty-statement
 ````
-#use
+# Use
 ````js
 {
   "plugins": [ "transform-empty-statement" ]
 }
 ````
-##in
+## in
 ````js
 // next line is EmptyStatement
 ;
 foo('bar');
 ````
 
-##out
+## out
 ````js
 // next line is EmptyStatement
 ( function (a) { return a; } )();
