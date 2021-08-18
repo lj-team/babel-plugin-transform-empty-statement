@@ -1,3 +1,5 @@
+This is a preservation of `nuxdie/babel-plugin-transform-empty-statement` made because of `nuxdie` GitHub account deletion.
+
 # Install
 ````
 npm i babel-plugin-transform-empty-statement
